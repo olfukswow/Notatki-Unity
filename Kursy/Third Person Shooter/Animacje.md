@@ -1,0 +1,7 @@
+(1) [[(1)Rigging animacji celowania postaci|Podążanie głowy i broni postaci za celem]]
+(2) [[(2)Przyłączanie modelu broni do ręki postaci|Przyklejenie modelu broni do dłoni postaci]]
+(3) [[(4)Przyłączanie drugiej ręki postaci do broni|Przyklejenie drugiej ręki do broni(wygląd trzymania broni)]]
+(4) [[(5)Animation layers|Warstwy animacji]]
+(5) [[(6)Synchronizacja animacji|Synchronizacja warstw animacji]]
+(6) [[(7)Animacja przeładowywania|Logika i animacja przeładowania]]
+(7) [[(8)Animacja zmiany broni|Logika i animacja przeładowania]]

@@ -1,0 +1,1 @@
+[[(1)Inicjalizacja kamery|Dodanie kamery do świata]]

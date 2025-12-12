@@ -1,0 +1,1 @@
+W ustawieniach layera możesz włączyć synchronizację("Sync") i wybrać layer na który ma bazować - dzięki temu layer będzie dziedziczył stany przejścia itp. ale może mieć inne animacje w stanach. przydaje się to gdy masz wiele layerów do tego samego tylko np do różnych broni - każda broń ma inne animacje ale te same stany i przejścia
