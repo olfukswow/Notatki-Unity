@@ -1,0 +1,2 @@
+1. W Unity Hub przechodzimy do Installs > Install Editor i instalujemy chcianą wersję
+2. W zakładce "Projects" wybieramy projekt i w kolumnie  "Editor version" wybieramy wybraną wersję i naciskamy "Open with ..." i potwierdzamy

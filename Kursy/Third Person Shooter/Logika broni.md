@@ -1,0 +1,1 @@
+[[Wystrzał pocisku postaci]]

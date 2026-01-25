@@ -1,0 +1,2 @@
+**Wymagany jest efekt bloom postprocessingu z thresholdem**
+W materiale obiektu dostępna jest opcja "Emission", im większa wartość tym większa jasność obiektu. Możliwe jest dobieranie koloru tego światła poprzez zmianę koloru emission
