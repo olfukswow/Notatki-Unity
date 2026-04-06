@@ -2,7 +2,8 @@
 ## ``[RequireComponent(typeof(Rigidbody))]``
 ### Skrypt z tym headerem dodany do danego obiektu wymaga podanego w argumencie komponentu, jeśli obiekt go nie ma to atrybut doda ten komponent automatycznie
 
-
+## ``[System.Serializable]``
+### Umożliwia wyświetlanie w inspektorze klasy nie dziedziczącej z MonoBehaviour
 ## ``Header``
 ### Dodaje nagłówek podany w argumencie w Inspectorze nad polem
 ### Przykład użycia:
